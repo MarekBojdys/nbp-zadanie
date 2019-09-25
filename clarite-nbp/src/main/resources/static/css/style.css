@@ -1,0 +1,45 @@
+body {
+	background-color: white;
+	}
+	
+table {
+    margin: 0 auto; /* or margin: 0 auto 0 auto */
+  }
+  
+button{
+    height:200px; 
+    width:100px;  
+    
+ }
+
+a{
+text-decoration:none;
+color: black;
+}
+
+header{
+	text-align: center;
+	
+}
+
+#divWithGoldButton {
+  float:left;
+  width:20%;
+  text-align: center;
+}
+
+#divWithContent {
+	text-align: center;
+    float:left;
+    width:60%;
+}
+
+#ivWithCurrencyButton{
+  float:left;
+  text-align: center;
+}
+
+footer{
+	  clear:both;
+ 	  text-align: center;
+}
